@@ -1,4 +1,4 @@
-# Simple Shannon Baseband Loader for IDA Pro
+# Simple Shannon Baseband Loader for IDA Pro 7.4
 
 This is a simple firmware loader plugin to load Samsung Exynos "Shannon" modem images in [IDA Pro](https://hex-rays.com/ida-pro/) or [IDA Home ARM](https://hex-rays.com/ida-home/). This loader is designed to perform the most important taks to load a Shannon image, furthermore it should be easy to understand and customize. 
 
